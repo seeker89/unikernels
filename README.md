@@ -11,6 +11,7 @@
 | [OSv](http://osv.io/) | C | https://github.com/cloudius-systems/osv | 2012 | recent | active |
 | [Unikraft](https://unikraft.org/) | C | https://github.com/unikraft/unikraft | 2017 | recent | active |
 | [RustyHermit](https://rust-osdev.com/showcase/rusty-hermit/) | Rust | https://github.com/hermitcore/rusty-hermit | 2019 | recent | active |
+| [HermiTux](https://ssrg-vt.github.io/hermitux/) | C | https://github.com/ssrg-vt/hermitux | 2017 | recent | active |
 | [Rumprun](https://github.com/rumpkernel/rumprun) | C | https://github.com/rumpkernel/rumprun | 2014 | 2020 | active? |
 | [Click OS](http://cnp.neclab.eu/projects/clickos/) | C++ | https://github.com/sysml/clickos | 2007 | 2014 | dead |
 | [Unik](https://www.microsoft.com/en-us/research/project/drawbridge/) | Go | https://github.com/solo-io/unik | 2016 | 2019 | dead? |
