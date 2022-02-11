@@ -1,5 +1,15 @@
 # unikernels
 
+Unikernels promise lightweight, secure, minimalistic image to boot and run. There are two main approaches: 1) clean slate, where a new, minimal unikernel is written in a modern language, and 2) strip-down, where an existing kernel is simplified to match the requirements. Bot approaches have their pros and cons.
+
+
+|  | clean slate | strip-down |
+|---------|----------|-----|
+| ease of writing in a modern language | + | - (C) |
+| battle tested, existing implementations (TCP, UDP, ...) | - | + |
+| popularity, existing community | - | + |
+| overhead keeping in sync with legacy | + | - |
+
 
 ## Unikernels
 
