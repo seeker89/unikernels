@@ -1,7 +1,6 @@
 # unikernels
 
-> – Unikernels are specialised, single address space machine images constructed by
-using library operating systems -- wikipedia
+> Unikernels are specialised, single address space machine images constructed by using library operating systems -- [Wikipedia](https://en.wikipedia.org/wiki/Unikernel)
 
 Unikernels promise lightweight, secure, minimalistic image to boot and run. They assume being run in a secure hypervisor, so can do away with a lot of complexity of a modern OS. There are two main approaches:
 
