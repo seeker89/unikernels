@@ -7,7 +7,7 @@
 | Project | language | src | started | last commit | status |
 |---------|----------|-----|---------|-------------|--------|
 | [Mirage OS](https://mirage.io/) | OCaml | https://github.com/mirage/mirage | 2014 | recent | active |
-| [NanoOS/NanoVMS](https://www.nanovms.com/) | OCaml | https://github.com/nanovms/nanos | 2014 | recent | active |
+| [NanoOS/NanoVMS](https://www.nanovms.com/) | OCaml | https://github.com/nanovms/nanos | 2017 | recent | active |
 | [Rumprun](https://github.com/rumpkernel/rumprun) | C | https://github.com/rumpkernel/rumprun | 2014 | 2020 | active? |
 | [OSv](http://osv.io/) | OCaml | https://github.com/cloudius-systems/osv | 2012 | recent | active |
 | [Click OS](http://cnp.neclab.eu/projects/clickos/) | C++ | https://github.com/sysml/clickos | 2007 | 2014 | inactive |
