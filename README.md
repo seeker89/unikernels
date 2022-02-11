@@ -16,6 +16,8 @@
 | [Include OS](http://www.includeos.org/) |  |  |   |   | dead |
 | [LING](http://erlangonxen.org/) |  |  |   |   | dead |
 | [HaLVM](https://galois.com/project/halvm/) | Haskell | https://github.com/GaloisInc/HaLVM | 2010 | 2018 | dead |
+| [GUK](https://github.com/Leonidas-from-XIV/guestvm-guk) | C | https://github.com/Leonidas-from-XIV/guestvm-guk |  | 2011 | dead |
+| [runtime.js](http://runtimejs.org/) | C++, JS | https://github.com/runtimejs/runtime |  | 2019 | dead |
 | [Drawbridge](https://www.microsoft.com/en-us/research/project/drawbridge/) |  |  |  |  | ??? |
 
 
