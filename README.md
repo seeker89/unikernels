@@ -10,7 +10,8 @@
 | [NanoOS/NanoVMS](https://www.nanovms.com/) | OCaml | https://github.com/nanovms/nanos | 2017 | recent | active |
 | [Rumprun](https://github.com/rumpkernel/rumprun) | C | https://github.com/rumpkernel/rumprun | 2014 | 2020 | active? |
 | [OSv](http://osv.io/) | OCaml | https://github.com/cloudius-systems/osv | 2012 | recent | active |
-| [Click OS](http://cnp.neclab.eu/projects/clickos/) | C++ | https://github.com/sysml/clickos | 2007 | 2014 | inactive |
+| [Click OS](http://cnp.neclab.eu/projects/clickos/) | C++ | https://github.com/sysml/clickos | 2007 | 2014 | dead |
+| [Unik](https://www.microsoft.com/en-us/research/project/drawbridge/) | Go | https://github.com/solo-io/unik | 2016 | 2019 | dead? |
 | [Clive](https://lsub.org/clive/) | Go | https://github.com/fjballest/clive | 2015 | 2016 | dead |
 | [Include OS](http://www.includeos.org/) |  |  |   |   | dead |
 | [LING](http://erlangonxen.org/) |  |  |   |   | dead |
