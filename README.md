@@ -1,5 +1,8 @@
 # unikernels
 
+> – Unikernels are specialised, single address space machine images constructed by
+using library operating systems -- wikipedia
+
 Unikernels promise lightweight, secure, minimalistic image to boot and run. They assume being run in a secure hypervisor, so can do away with a lot of complexity of a modern OS. There are two main approaches:
 
 1. clean slate, where a new, minimal unikernel is written in a modern language
@@ -56,6 +59,7 @@ Unikernels promise lightweight, secure, minimalistic image to boot and run. They
 
 - [“Unikernels: Library Operating Systems for the Cloud” (Madhavapeddy, et al., 2013)](https://anil.recoil.org/papers/2013-asplos-mirage.pdf)
 - ["Unikernels: The Next Stage of Linux’s Dominance" (Ali Raza, Parul Sohal, James Cadden, Jonathan Appavoo, Ulrich Drepper, Richard Jones, Orran Krieger, Renato Mancuso, and Larry Woodman. 2019)](https://www.bu.edu/rhcollab/files/2019/04/unikernel.pdf)
+- https://wiki.linuxfoundation.org/_media/realtime/events/rt-summit2017/unikernelized-real-time-linux-and-iot_tiejun-chen.pdf
 
 
 ## Books
@@ -66,6 +70,7 @@ Unikernels promise lightweight, secure, minimalistic image to boot and run. They
 ## Talks
 
 
+- [UniLinux -- Unikernelized Linux - Tiejun Chen- FOSSASIA 2018](https://www.youtube.com/watch?v=4XIThgGLUNY)
 - [LISA18 - Unikraft: Unikernels Made Easy (2018)](https://www.youtube.com/watch?v=9PRKBZHArhI)
 - [Unikernel Technologies - Michael Bright (2017)](https://www.youtube.com/watch?v=24rvIB4_v4U)
 - [Unikernels - Keep It Simple to the Bare Metal - Tomek Kalinowski (2017)](https://www.youtube.com/watch?v=1iSdnU3aewA)
