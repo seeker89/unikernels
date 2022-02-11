@@ -25,9 +25,6 @@
 
 
 
-|  |  |  |  |  |  |
-
-
 
 ## Links
 
@@ -43,9 +40,15 @@
 
 ## Books
 
+- https://www.oreilly.com/library/view/unikernels/9781492042815/
 
 
 ## Talks
 
 
-
+- [Unikernel Technologies - Michael Bright (2017)](https://www.youtube.com/watch?v=24rvIB4_v4U)
+- [Unikernels - Keep It Simple to the Bare Metal - Tomek Kalinowski (2017)](https://www.youtube.com/watch?v=1iSdnU3aewA)
+- [Unikernels and Docker: From Revolution to Evolution - Black Belt Track - Mindy Preston (2016)](https://www.youtube.com/watch?v=0AZVCGTxkTU)
+- [Unik: Unikernel Runtime for Kubernetes by Idit Levine, EMC (2016)](https://www.youtube.com/watch?v=wcZWg3YtvnY)
+- [Unikernels: the rise of the library hypervisor in MirageOS (2016)](https://www.youtube.com/watch?v=dn4ARS4lDlQ)
+- [Unikernels: Who, What, Where, When, Why - Adam Wick, Galois (2014)](https://www.youtube.com/watch?v=2NuKkGWGg8I)
