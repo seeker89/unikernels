@@ -75,3 +75,11 @@ Unikernels promise lightweight, secure, minimalistic image to boot and run. They
 - [Unikernels: the rise of the library hypervisor in MirageOS (2016)](https://www.youtube.com/watch?v=dn4ARS4lDlQ)
 - ["Look ma, no OS! Unikernels and their applications" by Matt Bajor (2015)](https://www.youtube.com/watch?v=W9F4pn9Lngc)
 - [Unikernels: Who, What, Where, When, Why - Adam Wick, Galois (2014)](https://www.youtube.com/watch?v=2NuKkGWGg8I)
+
+
+## Linux
+
+- https://github.com/libos-nuse/linux-libos-tools
+- https://github.com/lkl/linux
+  - https://ieeexplore.ieee.org/document/5541547
+- https://www.usenix.org/legacy/publications/library/proceedings/als00/2000papers/papers/full_papers/dike/dike.pdf
