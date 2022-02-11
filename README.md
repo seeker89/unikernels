@@ -17,6 +17,14 @@ Unikernels promise lightweight, secure, minimalistic image to boot and run. They
 | overhead keeping in sync with legacy | + | - |
 
 
+The main blockers for a wider adoption of unikernels appear to be:
+
+- compatibility with existing code
+- lacking debuggability (monitoring, logging, familar tools, ...)
+- lacking universality - each unikernel only supports a subset of languages
+- lacking accepted standard (like Linux or Docker)
+
+
 ## Unikernels
 
 
@@ -80,6 +88,11 @@ Unikernels promise lightweight, secure, minimalistic image to boot and run. They
 - [Unikernels: the rise of the library hypervisor in MirageOS (2016)](https://www.youtube.com/watch?v=dn4ARS4lDlQ)
 - ["Look ma, no OS! Unikernels and their applications" by Matt Bajor (2015)](https://www.youtube.com/watch?v=W9F4pn9Lngc)
 - [Unikernels: Who, What, Where, When, Why - Adam Wick, Galois (2014)](https://www.youtube.com/watch?v=2NuKkGWGg8I)
+
+
+## Articles
+
+- [7 Unikernel Projects to Take On Docker in 2015](https://www.linux.com/news/7-unikernel-projects-take-docker-2015/)
 
 
 ## Linux
