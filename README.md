@@ -96,6 +96,7 @@ The main blockers for a wider adoption of unikernels appear to be:
 - [Unikernels are unfit for production](https://www.joyent.com/blog/unikernels-are-unfit-for-production)
   - [Hacker News discussion](https://news.ycombinator.com/item?id=10953766)
 - [Just-in-Time Summoning of Unikernels (v0.2) (2015)](http://www.skjegstad.com/blog/2015/08/17/jitsu-v02/)
+- [Google Trends: unikernel](https://trends.google.com/trends/explore?date=all&q=Unikernel)
 
 
 ## Linux
