@@ -95,6 +95,7 @@ The main blockers for a wider adoption of unikernels appear to be:
 - [7 Unikernel Projects to Take On Docker in 2015](https://www.linux.com/news/7-unikernel-projects-take-docker-2015/)
 - [Unikernels are unfit for production](https://www.joyent.com/blog/unikernels-are-unfit-for-production)
   - [Hacker News discussion](https://news.ycombinator.com/item?id=10953766)
+- [Just-in-Time Summoning of Unikernels (v0.2) (2015)](http://www.skjegstad.com/blog/2015/08/17/jitsu-v02/)
 
 
 ## Linux
