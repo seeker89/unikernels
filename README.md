@@ -22,6 +22,7 @@ The main blockers for a wider adoption of unikernels appear to be:
 - lacking debuggability (monitoring, logging, familar tools, ...)
 - lacking universality - each unikernel only supports a subset of languages
 - lacking accepted standard (like Linux or Docker)
+- running as VMs means that for example RAM can't be shared when unused
 
 
 ## Unikernels
@@ -92,6 +93,7 @@ The main blockers for a wider adoption of unikernels appear to be:
 ## Articles
 
 - [7 Unikernel Projects to Take On Docker in 2015](https://www.linux.com/news/7-unikernel-projects-take-docker-2015/)
+- [Unikernels are unfit for production](https://www.joyent.com/blog/unikernels-are-unfit-for-production)
 
 
 ## Linux
