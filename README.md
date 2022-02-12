@@ -75,6 +75,7 @@ A few thoughts:
 - ["Unikernels: The Next Stage of Linux’s Dominance" (Ali Raza, Parul Sohal, James Cadden, Jonathan Appavoo, Ulrich Drepper, Richard Jones, Orran Krieger, Renato Mancuso, and Larry Woodman. 2019)](https://www.bu.edu/rhcollab/files/2019/04/unikernel.pdf)
 - ["Unikraft: fast, specialized unikernels the easy way"](https://dl.acm.org/doi/10.1145/3447786.3456248)
 - https://wiki.linuxfoundation.org/_media/realtime/events/rt-summit2017/unikernelized-real-time-linux-and-iot_tiejun-chen.pdf
+- [NanoVMs in depth](https://storage.googleapis.com/dp-assets/nanovms_in_depth.pdf)
 
 
 ## Books
