@@ -23,9 +23,9 @@ The main blockers for a wider adoption of unikernels appear to be:
 
 A few thoughts:
 
-* __Security__ one of the strongest arguments for a unikernel is the reduced attack surface. While that's true, that reduced attack surface makes for more difficult debugging. Similar to debugging a FROM SCRATCH container from inside the container. While this can be alleviated by baking in debugging and monitoring tools, this goes against the minimalism.
-* __Lightweight__ another strong argumetn for unikernels: low overhead and small memory footprint. The flip side, is that you will need to allocate a certain amount of resources for your VM, that can't be shared with other applications like they can with Linux containers. So the lightweight nature might be a niche application only.
-* __Performance__ while a simple kernel without the overhead of syscall switch does increase performance, it's not clear how well that applies to applications for which the syscalls aren't bottlecks. Besides, the high performance comes at a cost, so will only be an acceptable tradeoff for a subset of applications.
+* __Security__ one of the strongest arguments for a unikernel is the reduced attack surface. While that's difficult to argue with, that same approach makes for more difficult debugging. Similar to debugging a FROM SCRATCH container from inside the container. While this can be alleviated by baking in debugging and monitoring tools, this goes against the whole idea.
+* __Lightweight__ another strong argument for unikernels: low overhead and small memory footprint. The flip side, is that you will need to allocate a certain amount of resources for your VM, that can't be shared with other applications like they can with Linux containers. So you might not be able to flatpack as much as you can with containers.
+* __Performance__ while a simple kernel without the overhead of syscall switch does increase the [performance of some operations](https://unikraft.org/docs/features/performance/), it's not clear how well that applies to applications for which the syscalls aren't bottlecks. Besides, the high performance comes at a cost, so will only be an acceptable tradeoff for a subset of applications.
 * __Debugging/Monitoring__ with the advent of eBPF, the visibility into the kernel has increased dramatically, so the standard have risen. Unikernels would need to provide a viable alternative for massive adoption to happen.
 * __Scheduling__ containers now have a few options for scheduling ([Kubernetes](https://kubernetes.io/), [Nomad](https://www.nomadproject.io/), etc). Scheduling VMs with something like OpenStack would require a lot of improvement to get to the level of ease/speed that the container-specific solutions provide. This could be alleviated with things like Unik or Firecracker, but these haven't exactly blown up in popularity either.
 * __Compatibility__ containers package existing software and run it unchaged. Unikernels require compiling the kernel together with the application. There are some solutions that can produce a Linux binary for debugging and a kernel image for production. Keeping your unikernel Linux-compatible will be tricky and increase the attack surface.
@@ -73,6 +73,7 @@ A few thoughts:
 
 - [“Unikernels: Library Operating Systems for the Cloud” (Madhavapeddy, et al., 2013)](https://anil.recoil.org/papers/2013-asplos-mirage.pdf)
 - ["Unikernels: The Next Stage of Linux’s Dominance" (Ali Raza, Parul Sohal, James Cadden, Jonathan Appavoo, Ulrich Drepper, Richard Jones, Orran Krieger, Renato Mancuso, and Larry Woodman. 2019)](https://www.bu.edu/rhcollab/files/2019/04/unikernel.pdf)
+- ["Unikraft: fast, specialized unikernels the easy way"](https://dl.acm.org/doi/10.1145/3447786.3456248)
 - https://wiki.linuxfoundation.org/_media/realtime/events/rt-summit2017/unikernelized-real-time-linux-and-iot_tiejun-chen.pdf
 
 
