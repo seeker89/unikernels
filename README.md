@@ -10,7 +10,7 @@ Unikernels promise lightweight, secure, minimalistic image to boot and run. They
 
 ## TL;DR
 
-_Feb 2022_
+_Feb 2022_ Is this out of date? Send a [PR](https://github.com/seeker89/unikernels/edit/main/README.md)
 
 Despite a lot of hype around 2014-2015, the unikernels didn't blow up in popularity the way that containers or Kubernetes did.
 
