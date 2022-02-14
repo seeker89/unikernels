@@ -38,8 +38,9 @@ A few thoughts:
 
 | Project | language | src | started | last commit | status |
 |---------|----------|-----|---------|-------------|--------|
-| [Mirage OS](https://mirage.io/) | OCaml | https://github.com/mirage/mirage | 2014 | recent | active |
+| [Unikraft](https://unikraft.org/) | C | https://github.com/unikraft/unikraft | 2017 | recent | active |
 | [NanoOS](https://nanos.org/) | OCaml | https://github.com/nanovms/nanos | 2017 | recent | active |
+| [Mirage OS](https://mirage.io/) | OCaml | https://github.com/mirage/mirage | 2014 | recent | active |
 | [OSv](http://osv.io/) | C | https://github.com/cloudius-systems/osv | 2012 | recent | active |
 | [RustyHermit](https://rust-osdev.com/showcase/rusty-hermit/) | Rust | https://github.com/hermitcore/rusty-hermit | 2019 | recent | active |
 | [HermiTux](https://ssrg-vt.github.io/hermitux/) | C | https://github.com/ssrg-vt/hermitux | 2017 | recent | active |
@@ -58,7 +59,6 @@ A few thoughts:
 
 | Project | language | src | started | last commit | status |
 |---------|----------|-----|---------|-------------|--------|
-| [Unikraft](https://unikraft.org/) | C | https://github.com/unikraft/unikraft | 2017 | recent | active |
 | [Unik](https://www.microsoft.com/en-us/research/project/drawbridge/) | Go | https://github.com/solo-io/unik | 2016 | 2019 | dead? |
 
 
