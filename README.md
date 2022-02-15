@@ -39,7 +39,7 @@ A few thoughts:
 | Project | language | src | started | last commit | status |
 |---------|----------|-----|---------|-------------|--------|
 | [Unikraft](https://unikraft.org/) | C | https://github.com/unikraft/unikraft | 2017 | recent | active |
-| [NanoOS](https://nanos.org/) | OCaml | https://github.com/nanovms/nanos | 2017 | recent | active |
+| [NanoOS](https://nanos.org/) | C | https://github.com/nanovms/nanos | 2017 | recent | active |
 | [Mirage OS](https://mirage.io/) | OCaml | https://github.com/mirage/mirage | 2014 | recent | active |
 | [OSv](http://osv.io/) | C | https://github.com/cloudius-systems/osv | 2012 | recent | active |
 | [RustyHermit](https://rust-osdev.com/showcase/rusty-hermit/) | Rust | https://github.com/hermitcore/rusty-hermit | 2019 | recent | active |
