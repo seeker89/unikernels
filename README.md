@@ -10,7 +10,7 @@ Unikernels promise lightweight, secure, minimalistic image to boot and run. They
 
 ## TL;DR
 
-_Feb 2022_ Is this out of date? Send a [PR](https://github.com/seeker89/unikernels/edit/main/README.md)
+_Feb 2022_ (is this out of date? Send a [PR](https://github.com/seeker89/unikernels/edit/main/README.md))
 
 Despite a lot of hype around [2015-2016](https://trends.google.com/trends/explore?date=all&q=Unikernel), the unikernels didn't blow up in popularity the way that containers or Kubernetes did.
 
@@ -23,7 +23,7 @@ The main blockers for a wider adoption of unikernels appear to be:
 - running as VMs means applications can't share some resources (unused RAM) like they can in Linux containers
 
 
-A few thoughts:
+A few thoughts ([correct me](https://github.com/seeker89/unikernels/edit/main/README.md)):
 
 * __Security__ one of the strongest arguments for a unikernel is the reduced attack surface. While that's difficult to argue with, that same approach makes for more difficult debugging. Similar to debugging a FROM SCRATCH container from inside the container. While this can be alleviated by baking in debugging and monitoring tools, this goes against the whole idea.
 * __Lightweight__ another strong argument for unikernels: low overhead and small memory footprint. The flip side, is that you will need to allocate a certain amount of resources for your VM, that can't be shared with other applications like they can with Linux containers. So you might not be able to flatpack as much as you can with containers.
