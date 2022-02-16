@@ -70,6 +70,7 @@ A few thoughts ([correct me](https://github.com/seeker89/unikernels/edit/main/RE
 
 - https://github.com/cetic/unikernels
 - http://unikernel.org
+- [Hacker News discussion of this doc](https://news.ycombinator.com/item?id=30358036)
 
 
 ## Papers
