@@ -45,12 +45,13 @@ Currently, the only two with commercial support I could find are [Unikraft](http
 | [NanoOS](https://nanos.org/) | C | https://github.com/nanovms/nanos | 2017 | recent | active |
 | [Mirage OS](https://mirage.io/) | OCaml | https://github.com/mirage/mirage | 2014 | recent | active |
 | [OSv](http://osv.io/) | C | https://github.com/cloudius-systems/osv | 2012 | recent | active |
-| [RustyHermit](https://rust-osdev.com/showcase/rusty-hermit/) | Rust | https://github.com/hermitcore/rusty-hermit | 2019 | recent | active |
+| [RustyHermit](https://rust-osdev.com/showcase/rusty-hermit/) | Rust | https://github.com/hermitcore/rusty-hermit | 2017 | recent | active |
 | [HermiTux](https://ssrg-vt.github.io/hermitux/) | C | https://github.com/ssrg-vt/hermitux | 2017 | recent | active |
 | [StardustOS](https://github.com/StardustOS/) | C | https://stardustos.gitbook.io/stardust/ | 2019 | recent | active |
 | [Rumprun](https://github.com/rumpkernel/rumprun) | C | https://github.com/rumpkernel/rumprun | 2014 | 2020 | active? |
 | [Click OS](http://cnp.neclab.eu/projects/clickos/) | C++ | https://github.com/sysml/clickos | 2007 | 2014 | dead |
 | [Clive](https://lsub.org/clive/) | Go | https://github.com/fjballest/clive | 2015 | 2016 | dead |
+| [HermitCore](https://hermitcore.org) | C | https://github.com/hermitcore/libhermit | 2015 | 2021 | superseded |
 | [HaLVM](https://galois.com/project/halvm/) | Haskell | https://github.com/GaloisInc/HaLVM | 2010 | 2018 | dead |
 | [GUK](https://github.com/Leonidas-from-XIV/guestvm-guk) | C | https://github.com/Leonidas-from-XIV/guestvm-guk |  | 2011 | dead |
 | [runtime.js](http://runtimejs.org/) | C++, JS | https://github.com/runtimejs/runtime | 2014 | 2019 | dead |
@@ -84,7 +85,9 @@ Currently, the only two with commercial support I could find are [Unikraft](http
 - https://wiki.linuxfoundation.org/_media/realtime/events/rt-summit2017/unikernelized-real-time-linux-and-iot_tiejun-chen.pdf
 - [NanoVMs in depth](https://storage.googleapis.com/dp-assets/nanovms_in_depth.pdf)
 - [Jaradat, W., Dearle, A. and Lewis, J. Unikernel support for the deployment of light-weight, self-contained, and latency avoiding services.](https://research-repository.st-andrews.ac.uk/bitstream/handle/10023/13099/Jaradat_2018_Unikernel_support_3rdSRCW.pdf?sequence=1&isAllowed=y)
-
+- [HermitCore: A Unikernel for Extreme Scale Computing](https://dl.acm.org/doi/10.1145/2931088.2931093)
+- [Evaluation of Rust for Operating System Development and Porting Key Components of the HermitCore Unikernel](https://colinfinck.de/Master_Thesis_Colin_Finck.pdf)
+- [A Binary-Compatible Unikernel](https://www.ssrg.ece.vt.edu/papers/vee2019.pdf)
 
 ## Books
 
@@ -113,6 +116,7 @@ Currently, the only two with commercial support I could find are [Unikraft](http
   - [Hacker News discussion](https://news.ycombinator.com/item?id=10953766)
 - [Just-in-Time Summoning of Unikernels (v0.2) (2015)](http://www.skjegstad.com/blog/2015/08/17/jitsu-v02/)
 - [Google Trends: unikernel](https://trends.google.com/trends/explore?date=all&q=Unikernel)
+- [A Rust-based Unikernel - First version of a Rust-based libOS](https://hermitcore.org/2018/06/06/A-Rust-based-Unikernel/)
 
 
 ## Linux
