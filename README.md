@@ -44,6 +44,7 @@ A few thoughts:
 | [OSv](http://osv.io/) | C | https://github.com/cloudius-systems/osv | 2012 | recent | active |
 | [RustyHermit](https://rust-osdev.com/showcase/rusty-hermit/) | Rust | https://github.com/hermitcore/rusty-hermit | 2019 | recent | active |
 | [HermiTux](https://ssrg-vt.github.io/hermitux/) | C | https://github.com/ssrg-vt/hermitux | 2017 | recent | active |
+| [StardustOS](https://github.com/StardustOS/) | C | https://stardustos.gitbook.io/stardust/ | 2019 | recent | active |
 | [Rumprun](https://github.com/rumpkernel/rumprun) | C | https://github.com/rumpkernel/rumprun | 2014 | 2020 | active? |
 | [Click OS](http://cnp.neclab.eu/projects/clickos/) | C++ | https://github.com/sysml/clickos | 2007 | 2014 | dead |
 | [Clive](https://lsub.org/clive/) | Go | https://github.com/fjballest/clive | 2015 | 2016 | dead |
