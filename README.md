@@ -83,6 +83,7 @@ Currently, the only two with commercial support I could find are [Unikraft](http
 - ["Unikraft: fast, specialized unikernels the easy way"](https://dl.acm.org/doi/10.1145/3447786.3456248)
 - https://wiki.linuxfoundation.org/_media/realtime/events/rt-summit2017/unikernelized-real-time-linux-and-iot_tiejun-chen.pdf
 - [NanoVMs in depth](https://storage.googleapis.com/dp-assets/nanovms_in_depth.pdf)
+- [Jaradat, W., Dearle, A. and Lewis, J. Unikernel support for the deployment of light-weight, self-contained, and latency avoiding services.](https://research-repository.st-andrews.ac.uk/bitstream/handle/10023/13099/Jaradat_2018_Unikernel_support_3rdSRCW.pdf?sequence=1&isAllowed=y)
 
 
 ## Books
