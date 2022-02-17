@@ -67,6 +67,12 @@ Currently, the only two with commercial support I could find are [Unikraft](http
 | [Unik](https://www.microsoft.com/en-us/research/project/drawbridge/) | Go | https://github.com/solo-io/unik | 2016 | 2019 | dead? |
 
 
+## Various
+
+| Project | description | status |
+|---------|----------|-----|---------|-------------|--------|
+| [Qubes OS](https://www.qubes-os.org/) | everything is a VM | active |
+
 
 
 
