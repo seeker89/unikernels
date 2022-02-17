@@ -49,9 +49,9 @@ Currently, the only two with commercial support I could find are [Unikraft](http
 | [HermiTux](https://ssrg-vt.github.io/hermitux/) | C | https://github.com/ssrg-vt/hermitux | 2017 | recent | active |
 | [StardustOS](https://github.com/StardustOS/) | C | https://stardustos.gitbook.io/stardust/ | 2019 | recent | active |
 | [Rumprun](https://github.com/rumpkernel/rumprun) | C | https://github.com/rumpkernel/rumprun | 2014 | 2020 | active? |
+| [HermitCore](https://hermitcore.org) | C | https://github.com/hermitcore/libhermit | 2015 | 2021 | superseded |
 | [Click OS](http://cnp.neclab.eu/projects/clickos/) | C++ | https://github.com/sysml/clickos | 2007 | 2014 | dead |
 | [Clive](https://lsub.org/clive/) | Go | https://github.com/fjballest/clive | 2015 | 2016 | dead |
-| [HermitCore](https://hermitcore.org) | C | https://github.com/hermitcore/libhermit | 2015 | 2021 | superseded |
 | [HaLVM](https://galois.com/project/halvm/) | Haskell | https://github.com/GaloisInc/HaLVM | 2010 | 2018 | dead |
 | [GUK](https://github.com/Leonidas-from-XIV/guestvm-guk) | C | https://github.com/Leonidas-from-XIV/guestvm-guk |  | 2011 | dead |
 | [runtime.js](http://runtimejs.org/) | C++, JS | https://github.com/runtimejs/runtime | 2014 | 2019 | dead |
