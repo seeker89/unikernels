@@ -68,12 +68,13 @@ Currently, the only two with commercial support I could find are [Unikraft](http
 | [Unik](https://www.microsoft.com/en-us/research/project/drawbridge/) | Go | https://github.com/solo-io/unik | 2016 | 2019 | dead? |
 
 
-## Various
+## Various related
 
 | Project | description | status |
 |---------|-------------|--------|
 | [Qubes OS](https://www.qubes-os.org/) | everything is a VM | active |
 | [gVisor](https://github.com/google/gvisor) | userspace Kernel | active |
+| [Firecracker](https://firecracker-microvm.github.io/) | micro VMs (using KVM) | active |
 
 
 
@@ -94,7 +95,7 @@ Currently, the only two with commercial support I could find are [Unikraft](http
 - [Jaradat, W., Dearle, A. and Lewis, J. Unikernel support for the deployment of light-weight, self-contained, and latency avoiding services.](https://research-repository.st-andrews.ac.uk/bitstream/handle/10023/13099/Jaradat_2018_Unikernel_support_3rdSRCW.pdf?sequence=1&isAllowed=y)
 - [HermitCore: A Unikernel for Extreme Scale Computing](https://dl.acm.org/doi/10.1145/2931088.2931093)
 - [Evaluation of Rust for Operating System Development and Porting Key Components of the HermitCore Unikernel](https://colinfinck.de/Master_Thesis_Colin_Finck.pdf)
-- [A Binary-Compatible Unikernel](https://www.ssrg.ece.vt.edu/papers/vee2019.pdf)
+- ["A Binary-Compatible Unikernel" (P. Olivier, D. Chiba, S. Lankes, C. Min, B. Ravindran, 2019)](https://www.ssrg.ece.vt.edu/papers/vee2019.pdf)
 
 ## Books
 
