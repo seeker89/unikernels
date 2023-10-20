@@ -11,7 +11,7 @@ Unlike monolithic operating systems such as Linux that permit libraries to be mo
 
 ## TL;DR
 
-_Feb 2022_ (is this out of date? Send a [PR](https://github.com/seeker89/unikernels/edit/main/README.md))
+_Oct 2023_ (is this out of date? Send a [PR](https://github.com/seeker89/unikernels/edit/main/README.md))
 
 Despite a lot of hype around [2015-2016](https://trends.google.com/trends/explore?date=all&q=Unikernel), Unikernels did not gain much popularity, and have not been adopted by practitioners as software containers and related orchestration frameworks such as Docker and Kubernetes respectively.
 
@@ -91,13 +91,15 @@ Currently, the only two with commercial support I could find are [Unikraft](http
 
 - [“Unikernels: Library Operating Systems for the Cloud” (Madhavapeddy, et al., 2013)](https://anil.recoil.org/papers/2013-asplos-mirage.pdf)
 - ["Unikernels: The Next Stage of Linux’s Dominance" (Ali Raza, Parul Sohal, James Cadden, Jonathan Appavoo, Ulrich Drepper, Richard Jones, Orran Krieger, Renato Mancuso, and Larry Woodman. 2019)](https://www.bu.edu/rhcollab/files/2019/04/unikernel.pdf)
-- ["Unikraft: fast, specialized unikernels the easy way"](https://dl.acm.org/doi/10.1145/3447786.3456248)
 - https://wiki.linuxfoundation.org/_media/realtime/events/rt-summit2017/unikernelized-real-time-linux-and-iot_tiejun-chen.pdf
 - ["Unikernel support for the deployment of light-weight, self-contained, and latency avoiding services" (Jaradat, W., Dearle, A. and Lewis, J., 2018)](https://research-repository.st-andrews.ac.uk/bitstream/handle/10023/13099/Jaradat_2018_Unikernel_support_3rdSRCW.pdf?sequence=1&isAllowed=y), *Presentation slides can be found [here](https://uksystems.org/workshop/2018/42-jaradat-services.pdf)*.
 - ["HermitCore: A Unikernel for Extreme Scale Computing" (S. Lankes, S. Pickartz, J. Breitbart, 2016)](https://dl.acm.org/doi/10.1145/2931088.2931093)
 - ["Evaluation of Rust for Operating System Development and Porting Key Components of the HermitCore Unikernel" (Colin Finck)](https://colinfinck.de/Master_Thesis_Colin_Finck.pdf)
 - ["A Binary-Compatible Unikernel" (P. Olivier, D. Chiba, S. Lankes, C. Min, B. Ravindran, 2019)](https://www.ssrg.ece.vt.edu/papers/vee2019.pdf)
 - ["Debugging Unikernel Operating Systems" (Ahmad, K., Dearle A., Lewis, J. and Jaradat, W.)](https://raw.githubusercontent.com/uksystems/uksystems.github.io/c0a49180fa66acccb687fbde5603494c7a051620/uksystems2020-abstract40.txt), *Presentation slides can be found [here](https://github.com/mallok-s/Duster-Systems-Research-Challenges-Talk/blob/main/presentation.pdf)*.
+- ["Unikraft: Fast, Specialized Unikernels the Easy Way" (Kuenzer, et al., 2021)](https://dl.acm.org/doi/10.1145/3447786.3456248)
+- ["FlexOS: Towards Flexible OS Isolation" (Lefeuvre, et al., 2021)](https://dl.acm.org/doi/10.1145/3503222.3507759)
+- ["Want More Unikernels? Inflate Them!" (G. Gain, C. Soldani, F. Huici and L. Mathy, 2021)](https://dl.acm.org/doi/10.1145/3542929.3563473)
 
 ## Books
 
