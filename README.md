@@ -49,9 +49,9 @@ Currently, the only two with commercial support I could find are [Unikraft](http
 | [OSv](http://osv.io/) | C        | https://github.com/cloudius-systems/osv        | 2012 | recent | active |
 | [RustyHermit](https://rust-osdev.com/showcase/rusty-hermit/) | Rust     | https://github.com/hermitcore/rusty-hermit     | 2017 | recent | active |
 | [HermiTux](https://ssrg-vt.github.io/hermitux/) | C        | https://github.com/ssrg-vt/hermitux            | 2017 | recent | active |
-| [StardustOS](https://github.com/StardustOS/) | C, Rust  | https://stardustos.gitbook.io/stardust/        | 2019 | recent | active |
 | [Kontain](https://kontain.app/) | C        | https://github.com/kontainapp/km               | 2018 | recent | active |
-| [Rumprun](https://github.com/rumpkernel/rumprun) | C        | https://github.com/rumpkernel/rumprun          | 2014 | 2020 | active? |
+| [StardustOS](https://github.com/StardustOS/) | C, Rust  | https://stardustos.gitbook.io/stardust/        | 2019 | 2022 | dead |
+| [Rumprun](https://github.com/rumpkernel/rumprun) | C        | https://github.com/rumpkernel/rumprun          | 2014 | 2020 | dead |
 | [HermitCore](https://hermitcore.org) | C        | https://github.com/hermitcore/libhermit        | 2015 | 2021 | superseded |
 | [Click OS](http://cnp.neclab.eu/projects/clickos/) | C++      | https://github.com/sysml/clickos               | 2007 | 2014 | dead |
 | [Clive](https://lsub.org/clive/) | Go       | https://github.com/fjballest/clive             | 2015 | 2016 | dead |
